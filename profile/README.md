@@ -1,1 +1,1 @@
-![Poppins Agency](header.png)
+![Poppins Agency](./header.jpg)
